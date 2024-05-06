@@ -1,0 +1,4 @@
+{
+  "/[countryCode]/(main)/products/[handle]/page": "app/[countryCode]/(main)/products/[handle]/page.js",
+  "/[countryCode]/(main)/cart/page": "app/[countryCode]/(main)/cart/page.js"
+}
